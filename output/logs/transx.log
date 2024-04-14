@@ -1,0 +1,488 @@
+2022-08-24 14:28:09,685 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: D:\wy\孟园老师\组会\知识图谱\DeepModel_new\embedding\transX\output\TransD
+2022-08-24 14:28:10,265 - main.py[line:100] - INFO: available device: cpu，count_gpu: 0
+2022-08-24 14:28:19,482 - main.py[line:122] - INFO: ************** Running training ****************
+2022-08-24 14:28:19,482 - main.py[line:123] - INFO: Num Examples = 610894
+2022-08-24 14:28:19,483 - main.py[line:124] - INFO: Num Epochs = 1
+2022-08-24 14:28:19,483 - main.py[line:125] - INFO: Num Seed = 1
+2024-03-23 11:04:11,062 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-23 11:04:11,104 - 588013620.py[line:100] - INFO: available device: cpu，count_gpu: 1
+2024-03-23 11:04:14,636 - 588013620.py[line:122] - INFO: ************** Running training ****************
+2024-03-23 11:04:14,639 - 588013620.py[line:123] - INFO: Num Examples = 973838
+2024-03-23 11:04:14,640 - 588013620.py[line:124] - INFO: Num Epochs = 1
+2024-03-23 11:04:14,641 - 588013620.py[line:125] - INFO: Num Seed = 1
+2024-03-23 11:15:41,285 - 588013620.py[line:158] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.4633903503417969
+2024-03-23 11:15:41,286 - 588013620.py[line:164] - INFO: ********* Running eval start **********
+2024-03-25 16:16:09,034 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-25 16:16:09,113 - 588013620.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-25 16:16:13,155 - 588013620.py[line:122] - INFO: ************** Running training ****************
+2024-03-25 16:16:13,159 - 588013620.py[line:123] - INFO: Num Examples = 973838
+2024-03-25 16:16:13,159 - 588013620.py[line:124] - INFO: Num Epochs = 1
+2024-03-25 16:16:13,160 - 588013620.py[line:125] - INFO: Num Seed = 1
+2024-03-25 16:22:20,679 - 588013620.py[line:158] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.4220807552337646
+2024-03-25 16:22:20,680 - 588013620.py[line:164] - INFO: ********* Running eval start **********
+2024-03-25 23:07:49,945 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-25 23:07:50,021 - 4162933781.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-25 23:07:50,356 - 4162933781.py[line:124] - INFO: ************** Running training ****************
+2024-03-25 23:07:50,357 - 4162933781.py[line:125] - INFO: Num Examples = 9911
+2024-03-25 23:07:50,358 - 4162933781.py[line:126] - INFO: Num Epochs = 1
+2024-03-25 23:07:50,358 - 4162933781.py[line:127] - INFO: Num Seed = 1
+2024-03-25 23:07:53,060 - 4162933781.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.408273696899414
+2024-03-25 23:07:53,061 - 4162933781.py[line:166] - INFO: ********* Running eval start **********
+2024-03-26 00:10:46,417 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 00:10:46,476 - 675345456.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 00:10:46,640 - 675345456.py[line:119] - INFO: ************** Running training ****************
+2024-03-26 00:13:23,803 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 00:13:23,805 - 3916692298.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 00:13:23,874 - 3916692298.py[line:122] - INFO: ************** Running training ****************
+2024-03-26 00:13:23,877 - 3916692298.py[line:123] - INFO: Num Examples = 9911
+2024-03-26 00:13:23,878 - 3916692298.py[line:124] - INFO: Num Epochs = 1
+2024-03-26 00:13:23,878 - 3916692298.py[line:125] - INFO: Num Seed = 1
+2024-03-26 00:13:26,847 - 3916692298.py[line:158] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.057075023651123
+2024-03-26 00:13:26,849 - 3916692298.py[line:164] - INFO: ********* Running eval start **********
+2024-03-26 00:15:57,208 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 00:15:57,210 - 3825102094.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 00:15:57,243 - 3825102094.py[line:120] - INFO: ************** Running training ****************
+2024-03-26 00:16:59,709 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 00:16:59,711 - 1699058239.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 00:16:59,768 - 1699058239.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 00:16:59,769 - 1699058239.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 00:16:59,770 - 1699058239.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 00:16:59,771 - 1699058239.py[line:127] - INFO: Num Seed = 1
+2024-03-26 00:17:02,609 - 1699058239.py[line:157] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.9487833976745605
+2024-03-26 00:17:02,611 - 1699058239.py[line:163] - INFO: ********* Running eval start **********
+2024-03-26 00:18:04,591 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 00:18:04,593 - 1277437602.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 00:18:04,659 - 1277437602.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 00:18:04,661 - 1277437602.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 00:18:04,661 - 1277437602.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 00:18:04,662 - 1277437602.py[line:127] - INFO: Num Seed = 1
+2024-03-26 00:18:07,323 - 1277437602.py[line:157] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 3.9225778579711914
+2024-03-26 00:18:07,325 - 1277437602.py[line:163] - INFO: ********* Running eval start **********
+2024-03-26 00:35:20,355 - 4162933781.py[line:170] - INFO: running eval end... MR score is 3582.713560551124
+2024-03-26 00:35:20,357 - 4162933781.py[line:173] - INFO: -------------the best_mr is 3582.713560551124, save model--------------
+2024-03-26 00:35:20,382 - 4162933781.py[line:177] - INFO: <<<<<< the global_best_mr is 3582.713560551124, the min_loss is 4.408273696899414 >>>>>>
+2024-03-26 00:35:20,383 - 4162933781.py[line:178] - INFO: train the TransD model successful!!! save dir is /root/autodl-tmp/transX/output/TransD/model
+2024-03-26 00:35:20,384 - 4162933781.py[line:181] - INFO: start dump_embedding, save dir is /root/autodl-tmp/transX/output/TransD/embed
+2024-03-26 00:35:21,426 - 4162933781.py[line:183] - INFO: dump_embedding successful!!!
+2024-03-26 00:43:56,334 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 00:43:56,340 - 1634364689.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 00:43:56,411 - 1634364689.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 00:43:56,412 - 1634364689.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 00:43:56,414 - 1634364689.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 00:43:56,415 - 1634364689.py[line:127] - INFO: Num Seed = 1
+2024-03-26 00:43:58,937 - 1634364689.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.443202972412109
+2024-03-26 00:43:58,937 - 1634364689.py[line:168] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 00:43:58,938 - 1634364689.py[line:170] - INFO: ********* Running eval start **********
+2024-03-26 08:53:05,338 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 08:53:05,505 - 1634364689.py[line:100] - INFO: available device: cuda:0，count_gpu: 4
+2024-03-26 08:53:05,700 - 1634364689.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 08:53:05,701 - 1634364689.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 08:53:05,702 - 1634364689.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 08:53:05,703 - 1634364689.py[line:127] - INFO: Num Seed = 1
+2024-03-26 08:53:08,702 - 1634364689.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.705766677856445
+2024-03-26 08:53:08,704 - 1634364689.py[line:168] - INFO: available device: cuda:0，count_gpu: 4
+2024-03-26 08:53:08,704 - 1634364689.py[line:170] - INFO: ********* Running eval start **********
+2024-03-26 09:19:57,071 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 09:19:57,168 - 2540365128.py[line:100] - INFO: available device: cuda:0，count_gpu: 4
+2024-03-26 09:20:15,264 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 09:20:15,267 - 1634364689.py[line:100] - INFO: available device: cuda:0，count_gpu: 4
+2024-03-26 09:20:15,531 - 1634364689.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 09:20:15,533 - 1634364689.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 09:20:15,533 - 1634364689.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 09:20:15,534 - 1634364689.py[line:127] - INFO: Num Seed = 1
+2024-03-26 09:20:18,817 - 1634364689.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.25469970703125
+2024-03-26 09:20:18,818 - 1634364689.py[line:168] - INFO: available device: cuda:0，count_gpu: 4
+2024-03-26 09:20:18,819 - 1634364689.py[line:170] - INFO: ********* Running eval start **********
+2024-03-26 10:12:35,286 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:12:35,390 - 1500644274.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:12:35,660 - 1500644274.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 10:12:35,662 - 1500644274.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 10:12:35,663 - 1500644274.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 10:12:35,664 - 1500644274.py[line:127] - INFO: Num Seed = 1
+2024-03-26 10:12:38,651 - 1500644274.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.475610256195068
+2024-03-26 10:12:38,653 - 1500644274.py[line:168] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:12:40,777 - 1500644274.py[line:183] - INFO: ********* Running eval start **********
+2024-03-26 10:29:17,619 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:29:17,719 - 1814442050.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:30:04,411 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:30:04,414 - 3384916149.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:31:11,495 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:31:11,497 - 4039750407.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:31:11,581 - 4039750407.py[line:137] - INFO: ************** Running training ****************
+2024-03-26 10:31:11,583 - 4039750407.py[line:138] - INFO: Num Examples = 9911
+2024-03-26 10:31:11,584 - 4039750407.py[line:139] - INFO: Num Epochs = 1
+2024-03-26 10:31:11,584 - 4039750407.py[line:140] - INFO: Num Seed = 1
+2024-03-26 10:31:14,414 - 4039750407.py[line:173] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.3848772048950195
+2024-03-26 10:31:14,416 - 4039750407.py[line:181] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:31:16,587 - 4039750407.py[line:196] - INFO: ********* Running eval start **********
+2024-03-26 10:33:46,317 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:33:46,386 - 1455101541.py[line:104] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:35:58,356 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:35:58,358 - 873199967.py[line:106] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:35:58,558 - 873199967.py[line:141] - INFO: ************** Running training ****************
+2024-03-26 10:35:58,559 - 873199967.py[line:142] - INFO: Num Examples = 9911
+2024-03-26 10:35:58,560 - 873199967.py[line:143] - INFO: Num Epochs = 1
+2024-03-26 10:35:58,561 - 873199967.py[line:144] - INFO: Num Seed = 1
+2024-03-26 10:36:01,560 - 873199967.py[line:177] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.484079837799072
+2024-03-26 10:36:01,561 - 873199967.py[line:185] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:36:03,637 - 873199967.py[line:200] - INFO: ********* Running eval start **********
+2024-03-26 10:37:52,798 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:37:52,902 - 1895978279.py[line:104] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:38:35,385 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:38:35,387 - 1463956051.py[line:104] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:38:35,610 - 1463956051.py[line:139] - INFO: ************** Running training ****************
+2024-03-26 10:38:35,612 - 1463956051.py[line:140] - INFO: Num Examples = 9911
+2024-03-26 10:38:35,613 - 1463956051.py[line:141] - INFO: Num Epochs = 1
+2024-03-26 10:38:35,613 - 1463956051.py[line:142] - INFO: Num Seed = 1
+2024-03-26 10:38:38,588 - 1463956051.py[line:175] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 3.8848776817321777
+2024-03-26 10:38:38,589 - 1463956051.py[line:183] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:38:40,629 - 1463956051.py[line:198] - INFO: ********* Running eval start **********
+2024-03-26 10:40:13,808 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:44:08,191 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:44:08,282 - 4196195102.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:44:08,547 - 4196195102.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 10:44:08,549 - 4196195102.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 10:44:08,550 - 4196195102.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 10:44:08,550 - 4196195102.py[line:127] - INFO: Num Seed = 1
+2024-03-26 10:44:11,556 - 4196195102.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 3.6431524753570557
+2024-03-26 10:44:11,558 - 4196195102.py[line:166] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:44:13,926 - 4196195102.py[line:181] - INFO: ********* Running eval start **********
+2024-03-26 10:46:33,014 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:46:33,111 - 1055605864.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:46:33,342 - 1055605864.py[line:137] - INFO: ************** Running training ****************
+2024-03-26 10:46:33,343 - 1055605864.py[line:138] - INFO: Num Examples = 9911
+2024-03-26 10:46:33,344 - 1055605864.py[line:139] - INFO: Num Epochs = 1
+2024-03-26 10:46:33,344 - 1055605864.py[line:140] - INFO: Num Seed = 1
+2024-03-26 10:46:36,064 - 1055605864.py[line:173] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 3.9057397842407227
+2024-03-26 10:46:36,066 - 1055605864.py[line:179] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:46:38,466 - 1055605864.py[line:194] - INFO: ********* Running eval start **********
+2024-03-26 10:52:19,224 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:52:19,302 - 3886129943.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:56:31,659 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 10:56:31,661 - 1055605864.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:56:31,871 - 1055605864.py[line:137] - INFO: ************** Running training ****************
+2024-03-26 10:56:31,872 - 1055605864.py[line:138] - INFO: Num Examples = 9911
+2024-03-26 10:56:31,873 - 1055605864.py[line:139] - INFO: Num Epochs = 1
+2024-03-26 10:56:31,874 - 1055605864.py[line:140] - INFO: Num Seed = 1
+2024-03-26 10:56:35,127 - 1055605864.py[line:173] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.092581748962402
+2024-03-26 10:56:35,129 - 1055605864.py[line:179] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 10:56:37,160 - 1055605864.py[line:194] - INFO: ********* Running eval start **********
+2024-03-26 11:04:04,125 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:04:04,237 - 16394003.py[line:99] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:04:04,434 - 16394003.py[line:136] - INFO: ************** Running training ****************
+2024-03-26 11:04:04,435 - 16394003.py[line:137] - INFO: Num Examples = 9911
+2024-03-26 11:04:04,436 - 16394003.py[line:138] - INFO: Num Epochs = 1
+2024-03-26 11:04:04,437 - 16394003.py[line:139] - INFO: Num Seed = 1
+2024-03-26 11:04:07,579 - 16394003.py[line:172] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.9641828536987305
+2024-03-26 11:04:07,580 - 16394003.py[line:178] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:04:09,644 - 16394003.py[line:193] - INFO: ********* Running eval start **********
+2024-03-26 11:06:22,933 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:06:23,036 - 3784436483.py[line:99] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:06:23,229 - 3784436483.py[line:136] - INFO: ************** Running training ****************
+2024-03-26 11:06:23,231 - 3784436483.py[line:137] - INFO: Num Examples = 9911
+2024-03-26 11:06:23,232 - 3784436483.py[line:138] - INFO: Num Epochs = 1
+2024-03-26 11:06:23,232 - 3784436483.py[line:139] - INFO: Num Seed = 1
+2024-03-26 11:07:45,912 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:07:45,915 - 645368550.py[line:99] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:09:18,037 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:09:18,039 - 2059260615.py[line:99] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:09:18,102 - 2059260615.py[line:139] - INFO: ************** Running training ****************
+2024-03-26 11:09:18,103 - 2059260615.py[line:140] - INFO: Num Examples = 9911
+2024-03-26 11:09:18,103 - 2059260615.py[line:141] - INFO: Num Epochs = 1
+2024-03-26 11:09:18,104 - 2059260615.py[line:142] - INFO: Num Seed = 1
+2024-03-26 11:10:41,253 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:10:41,255 - 892787772.py[line:103] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:13:01,962 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:13:01,964 - 3184640314.py[line:104] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:13:02,033 - 3184640314.py[line:145] - INFO: ************** Running training ****************
+2024-03-26 11:13:02,034 - 3184640314.py[line:146] - INFO: Num Examples = 9911
+2024-03-26 11:13:02,035 - 3184640314.py[line:147] - INFO: Num Epochs = 1
+2024-03-26 11:13:02,036 - 3184640314.py[line:148] - INFO: Num Seed = 1
+2024-03-26 11:14:15,964 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:14:15,966 - 1949772315.py[line:104] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:14:16,040 - 1949772315.py[line:145] - INFO: ************** Running training ****************
+2024-03-26 11:14:16,041 - 1949772315.py[line:146] - INFO: Num Examples = 9911
+2024-03-26 11:14:16,042 - 1949772315.py[line:147] - INFO: Num Epochs = 1
+2024-03-26 11:14:16,043 - 1949772315.py[line:148] - INFO: Num Seed = 1
+2024-03-26 11:16:28,956 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:16:29,046 - 588013620.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:16:29,296 - 588013620.py[line:122] - INFO: ************** Running training ****************
+2024-03-26 11:16:29,298 - 588013620.py[line:123] - INFO: Num Examples = 9911
+2024-03-26 11:16:29,299 - 588013620.py[line:124] - INFO: Num Epochs = 1
+2024-03-26 11:16:29,299 - 588013620.py[line:125] - INFO: Num Seed = 1
+2024-03-26 11:16:32,090 - 588013620.py[line:158] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.264950752258301
+2024-03-26 11:16:32,091 - 588013620.py[line:164] - INFO: ********* Running eval start **********
+2024-03-26 11:17:21,180 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:17:21,278 - 588013620.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:17:21,513 - 588013620.py[line:122] - INFO: ************** Running training ****************
+2024-03-26 11:17:21,514 - 588013620.py[line:123] - INFO: Num Examples = 9911
+2024-03-26 11:17:21,515 - 588013620.py[line:124] - INFO: Num Epochs = 1
+2024-03-26 11:17:21,515 - 588013620.py[line:125] - INFO: Num Seed = 1
+2024-03-26 11:17:24,448 - 588013620.py[line:158] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 3.802924156188965
+2024-03-26 11:17:24,449 - 588013620.py[line:164] - INFO: ********* Running eval start **********
+2024-03-26 11:20:26,418 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:20:26,483 - 1611876669.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:21:19,689 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 11:21:19,691 - 3684119019.py[line:100] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 11:21:19,767 - 3684119019.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 11:21:19,768 - 3684119019.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 11:21:19,769 - 3684119019.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 11:21:19,770 - 3684119019.py[line:127] - INFO: Num Seed = 1
+2024-03-26 11:21:22,750 - 3684119019.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.681209564208984
+2024-03-26 11:21:22,752 - 3684119019.py[line:166] - INFO: ********* Running eval start **********
+2024-03-26 14:28:24,483 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 14:28:24,559 - main.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 14:28:24,750 - main.py[line:123] - INFO: ************** Running training ****************
+2024-03-26 14:28:24,751 - main.py[line:124] - INFO: Num Examples = 9911
+2024-03-26 14:28:24,751 - main.py[line:125] - INFO: Num Epochs = 1
+2024-03-26 14:28:24,751 - main.py[line:126] - INFO: Num Seed = 1
+2024-03-26 14:28:27,396 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 3.7975268363952637
+2024-03-26 14:28:27,396 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-03-26 14:34:16,615 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 14:34:16,655 - main.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 14:34:16,820 - main.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 14:34:16,820 - main.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 14:34:16,820 - main.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 14:34:16,820 - main.py[line:127] - INFO: Num Seed = 1
+2024-03-26 14:34:19,457 - main.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.320633411407471
+2024-03-26 14:34:19,457 - main.py[line:166] - INFO: ********* Running eval start **********
+2024-03-26 14:38:17,283 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 14:38:17,342 - main.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 14:38:17,518 - main.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 14:38:17,518 - main.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 14:38:17,518 - main.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 14:38:17,518 - main.py[line:127] - INFO: Num Seed = 1
+2024-03-26 14:38:20,159 - main.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.893832683563232
+2024-03-26 14:38:20,159 - main.py[line:166] - INFO: ********* Running eval start **********
+2024-03-26 14:41:01,445 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 14:41:01,483 - main.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 14:41:01,692 - main.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 14:41:01,692 - main.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 14:41:01,692 - main.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 14:41:01,692 - main.py[line:127] - INFO: Num Seed = 1
+2024-03-26 14:41:02,883 - main.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.440149307250977
+2024-03-26 14:41:02,883 - main.py[line:166] - INFO: ********* Running eval start **********
+2024-03-26 14:42:02,824 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 14:42:02,887 - main.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 14:42:03,106 - main.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 14:42:03,106 - main.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 14:42:03,106 - main.py[line:126] - INFO: Num Epochs = 1
+2024-03-26 14:42:03,106 - main.py[line:127] - INFO: Num Seed = 1
+2024-03-26 14:42:07,720 - main.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 3.9028725624084473
+2024-03-26 14:42:07,720 - main.py[line:166] - INFO: ********* Running eval start **********
+2024-03-26 14:43:56,359 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-26 14:43:56,412 - main.py[line:101] - INFO: available device: cuda:0，count_gpu: 1
+2024-03-26 14:43:56,580 - main.py[line:124] - INFO: ************** Running training ****************
+2024-03-26 14:43:56,580 - main.py[line:125] - INFO: Num Examples = 9911
+2024-03-26 14:43:56,580 - main.py[line:126] - INFO: Num Epochs = 5
+2024-03-26 14:43:56,581 - main.py[line:127] - INFO: Num Seed = 1
+2024-03-26 14:44:11,206 - main.py[line:160] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.739624977111816
+2024-03-26 14:44:11,206 - main.py[line:166] - INFO: ********* Running eval start **********
+2024-04-10 09:50:04,730 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-10 09:50:09,037 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-10 09:51:00,499 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-10 09:51:00,501 - main.py[line:124] - INFO: Num Examples = 9911
+2024-04-10 09:51:00,506 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-10 09:51:00,517 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-10 09:52:47,214 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.57724666595459
+2024-04-10 09:52:47,215 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-10 09:56:46,870 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-10 09:56:48,871 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-10 09:57:20,664 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-10 09:57:20,665 - main.py[line:124] - INFO: Num Examples = 9911
+2024-04-10 09:57:20,671 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-10 09:57:20,677 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-10 09:58:48,529 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 4.15326452255249
+2024-04-10 09:58:48,532 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-10 11:23:15,566 - main.py[line:169] - INFO: running eval end... MR score is 4095.6426758520665
+2024-04-10 11:23:15,567 - main.py[line:172] - INFO: -------------the best_mr is 4095.6426758520665, save model--------------
+2024-04-10 11:24:44,095 - main.py[line:159] - INFO: Seed: 0, epoch: 1, iteration is finished, the min_loss is 4.15326452255249
+2024-04-10 11:24:44,096 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-10 12:49:00,764 - main.py[line:169] - INFO: running eval end... MR score is 3607.378535170413
+2024-04-10 12:49:00,766 - main.py[line:172] - INFO: -------------the best_mr is 3607.378535170413, save model--------------
+2024-04-10 12:50:22,942 - main.py[line:159] - INFO: Seed: 0, epoch: 2, iteration is finished, the min_loss is 3.161172866821289
+2024-04-10 12:50:22,943 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-10 14:13:32,433 - main.py[line:169] - INFO: running eval end... MR score is 3519.799492385787
+2024-04-10 14:13:32,434 - main.py[line:172] - INFO: -------------the best_mr is 3519.799492385787, save model--------------
+2024-04-10 14:14:58,654 - main.py[line:159] - INFO: Seed: 0, epoch: 3, iteration is finished, the min_loss is 2.261141777038574
+2024-04-10 14:14:58,655 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-10 15:42:39,028 - main.py[line:169] - INFO: running eval end... MR score is 3510.231327048586
+2024-04-10 15:42:39,030 - main.py[line:172] - INFO: -------------the best_mr is 3510.231327048586, save model--------------
+2024-04-10 15:44:23,641 - main.py[line:159] - INFO: Seed: 0, epoch: 4, iteration is finished, the min_loss is 1.5575484037399292
+2024-04-10 15:44:23,642 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-10 17:12:34,378 - main.py[line:169] - INFO: running eval end... MR score is 3448.6421319796955
+2024-04-10 17:12:34,380 - main.py[line:172] - INFO: -------------the best_mr is 3448.6421319796955, save model--------------
+2024-04-10 17:12:34,412 - main.py[line:176] - INFO: <<<<<< the global_best_mr is 3448.6421319796955, the min_loss is 1.5575484037399292 >>>>>>
+2024-04-10 17:12:34,413 - main.py[line:177] - INFO: train the TransD model successful!!! save dir is /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD/model
+2024-04-10 17:12:34,414 - main.py[line:180] - INFO: start dump_embedding, save dir is /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD/embed
+2024-04-10 17:12:35,259 - main.py[line:182] - INFO: dump_embedding successful!!!
+2024-04-14 14:51:34,906 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 14:51:35,418 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 14:51:55,808 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 14:51:55,809 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 14:51:55,810 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 14:51:55,811 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 14:55:45,774 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.2796528339385986
+2024-04-14 14:55:45,775 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-14 15:08:05,940 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:08:07,142 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:08:19,329 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:08:19,330 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:08:19,331 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:08:19,332 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:09:54,700 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:09:56,991 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:10:09,278 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:10:09,279 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:10:09,280 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:10:09,281 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:10:25,249 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:10:26,484 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:10:38,721 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:10:38,723 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:10:38,723 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:10:38,724 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:14:38,906 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.4469305276870728
+2024-04-14 15:19:10,827 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:19:12,214 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:19:24,644 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:19:24,646 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:19:24,646 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:19:24,647 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:22:12,293 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 0.723147451877594
+2024-04-14 15:22:12,294 - main.py[line:177] - INFO: ********* Running eval start **********
+2024-04-14 15:22:42,716 - main.py[line:198] - INFO: Seed: 0, epoch: 0, iteration is finished, the valid_loss is 1242.985610127449
+2024-04-14 15:23:58,700 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:23:58,899 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:24:11,147 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:24:11,149 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:24:11,150 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:24:11,151 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:27:00,587 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.4182155132293701
+2024-04-14 15:27:00,588 - main.py[line:177] - INFO: ********* Running eval start **********
+2024-04-14 15:30:49,537 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:30:51,880 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:31:04,246 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:31:04,247 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:31:04,247 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:31:04,248 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:32:24,554 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:32:26,809 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:32:38,870 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:32:38,871 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:32:38,872 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:32:38,873 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:33:25,410 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:33:26,050 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:33:38,492 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:33:38,493 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:33:38,494 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:33:38,495 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:34:30,157 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:34:31,160 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:34:43,557 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:34:43,558 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:34:43,559 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:34:43,560 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:35:14,297 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:35:15,363 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:35:27,746 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:35:27,748 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:35:27,749 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:35:27,749 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:36:49,541 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:36:49,846 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:37:02,117 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:37:02,118 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:37:02,119 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:37:02,120 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:39:23,999 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:39:26,186 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:39:38,494 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:39:38,495 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:39:38,496 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:39:38,497 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:42:20,467 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:42:20,599 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:42:32,671 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:42:32,672 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:42:32,673 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:42:32,674 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:47:10,641 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:47:12,796 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:47:25,194 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:47:25,195 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:47:25,196 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:47:25,197 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:48:36,902 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:48:38,726 - main.py[line:100] - INFO: available device: cuda:6，count_gpu: 8
+2024-04-14 15:48:53,424 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:48:53,426 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:48:53,427 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:48:53,428 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:50:06,601 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:50:08,777 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 15:50:21,153 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:50:21,154 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:50:21,155 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:50:21,156 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:50:48,004 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:50:50,238 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 15:51:02,427 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:51:02,428 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:51:02,429 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:51:02,429 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:51:28,619 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:51:28,773 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 15:51:39,648 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:51:39,650 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:51:39,651 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:51:39,651 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:52:33,682 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:52:33,859 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 15:52:45,747 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:52:45,748 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:52:45,749 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:52:45,750 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:54:22,771 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:54:22,932 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 15:54:34,959 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:54:34,961 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:54:34,961 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:54:34,962 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:56:12,912 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:56:13,107 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 15:56:25,032 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:56:27,533 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 15:56:40,027 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 15:56:42,399 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 15:56:54,655 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 15:56:54,656 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 15:56:54,657 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 15:56:54,658 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 15:59:40,465 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.4284067153930664
+2024-04-14 15:59:40,467 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-14 16:02:03,733 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 16:02:06,082 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 16:02:18,214 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 16:02:18,216 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 16:02:18,217 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 16:02:18,218 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 16:05:08,187 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 0.9102991819381714
+2024-04-14 16:05:08,188 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-14 16:05:29,173 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 16:05:29,362 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 16:05:41,261 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 16:05:41,263 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 16:05:41,263 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 16:05:41,264 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 16:08:27,899 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.4400804042816162
+2024-04-14 16:08:27,900 - main.py[line:165] - INFO: ********* Running eval start **********
+2024-04-14 16:10:27,915 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /workspace/ysn_proj_0409/root/autodl-tmp/transX/output/TransD
+2024-04-14 16:10:30,239 - main.py[line:100] - INFO: available device: cuda:7，count_gpu: 8
+2024-04-14 16:10:41,294 - main.py[line:123] - INFO: ************** Running training ****************
+2024-04-14 16:10:41,296 - main.py[line:124] - INFO: Num Examples = 973838
+2024-04-14 16:10:41,297 - main.py[line:125] - INFO: Num Epochs = 5
+2024-04-14 16:10:41,297 - main.py[line:126] - INFO: Num Seed = 1
+2024-04-14 16:13:30,133 - main.py[line:159] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.4654326438903809
+2024-04-14 16:13:30,135 - main.py[line:165] - INFO: ********* Running eval start **********

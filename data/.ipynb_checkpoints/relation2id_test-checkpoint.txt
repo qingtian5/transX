@@ -1,0 +1,5 @@
+patent_patent	0
+patent_author	1
+patent_year	2
+patent_nation	3
+author_author	4

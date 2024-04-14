@@ -1,0 +1,14 @@
+2022-08-24 14:28:09,685 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: D:\wy\孟园老师\组会\知识图谱\DeepModel_new\embedding\transX\output\TransD
+2022-08-24 14:28:10,265 - main.py[line:100] - INFO: available device: cpu，count_gpu: 0
+2022-08-24 14:28:19,482 - main.py[line:122] - INFO: ************** Running training ****************
+2022-08-24 14:28:19,482 - main.py[line:123] - INFO: Num Examples = 610894
+2022-08-24 14:28:19,483 - main.py[line:124] - INFO: Num Epochs = 1
+2022-08-24 14:28:19,483 - main.py[line:125] - INFO: Num Seed = 1
+2024-03-23 11:04:11,062 - preprocessor.py[line:145] - INFO: check up output dir and clear dir: /root/autodl-tmp/transX/output/TransD
+2024-03-23 11:04:11,104 - 588013620.py[line:100] - INFO: available device: cpu，count_gpu: 1
+2024-03-23 11:04:14,636 - 588013620.py[line:122] - INFO: ************** Running training ****************
+2024-03-23 11:04:14,639 - 588013620.py[line:123] - INFO: Num Examples = 973838
+2024-03-23 11:04:14,640 - 588013620.py[line:124] - INFO: Num Epochs = 1
+2024-03-23 11:04:14,641 - 588013620.py[line:125] - INFO: Num Seed = 1
+2024-03-23 11:15:41,285 - 588013620.py[line:158] - INFO: Seed: 0, epoch: 0, iteration is finished, the min_loss is 1.4633903503417969
+2024-03-23 11:15:41,286 - 588013620.py[line:164] - INFO: ********* Running eval start **********
